@@ -2,16 +2,11 @@
 
 ## Part One: Solidify Terminology
 
-[Click here to view answers to the answers.](part-1.md)
+[Click here to view answers to Part 1.](part-1.md)
 
 ---
 
 ## Part Two: Practice Tools
-
-**Answer:**
-Click here.
-
-**Prompts:**
 
 1. Using `curl`, make a `GET` request to the _icanhazdadjoke.com_ API to find all jokes involving the word “pirate”
 1. Use `dig` to find what the IP address is for _icanhazdadjoke.com_
